@@ -13,6 +13,8 @@ This is a discord bot developed for GDSC genai workshop. This bot is continued c
 ├── assets
 │   └── logo.png
 │   └── permissions.png
+│   └── demo (Demo Images)
+│      ├── 1.png till 7.png
 │── .env
 │    ├── TOKEN=Your Discord Bot Token
 │    ├── GEMINI_API_KEY=Your Gemini API Key
@@ -91,10 +93,22 @@ python monitor_and_restart.py
 
 ![Permissions](https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/permissions.png)
 
-## Contributing: 
+## Contributing:
 
 The repository is open for contribution. All types of contribution are acknowledged - raising a bug issue, recommending new features as well as updating the code base. Before updating the code base raise an issue of recoomendign new feature and then can raise a pull requesting with the mentioned issue id.
 
 ## License:
 
 This project is licensed under the MIT License
+
+## Demo :
+
+<div>
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/1.png" alt="Demo 1">
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/2.png" alt="Demo 2">
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/3.png" alt="Demo 3">
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/4.png" alt="Demo 4">
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/5.png" alt="Demo 5">
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/6.png" alt="Demo 6">
+  <img src="https://raw.githubusercontent.com/scienmanas/JourneyGenie/main/assets/demo/7.png" alt="Demo 7">
+</div>
